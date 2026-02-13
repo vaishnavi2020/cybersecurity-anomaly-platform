@@ -33,6 +33,10 @@ streamlit run app.py
 
 ---
 
+### Deployed code 
+deployed ui - https://cyber-api-866483429072.us-central1.run.app/docs
+deployed backed - https://cyber-api-866483429072.us-central1.run.app/docs
+
 ## Team Members
 - Rahul Mudanna  
 - Madan Kumar  
