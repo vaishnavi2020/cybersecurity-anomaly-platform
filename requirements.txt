@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+plotly
+google-cloud-bigquery
+google-cloud-pubsub
+scikit-learn
+joblib
+pandas
+numpy
+requests
