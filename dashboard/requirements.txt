@@ -1,12 +1,7 @@
-fastapi
-uvicorn
-scikit-learn
-pandas
-joblib
-google-cloud-bigquery
-db-dtypes
 streamlit
 requests
 google-cloud-bigquery
 streamlit-autorefresh
 streamlit-echarts
+pandas
+db-dtypes

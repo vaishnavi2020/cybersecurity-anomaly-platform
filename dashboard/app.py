@@ -26,7 +26,7 @@ with tab1:
 
         try:
             response = requests.post(
-                "http://127.0.0.1:8000/predict",
+                "https://cyber-api-866483429072.us-central1.run.app/predict",
                 json={
                     "transactions_last_5min": transactions,
                     "avg_amount": avg_amount,
